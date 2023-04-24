@@ -1,0 +1,393 @@
+[
+    {
+        "id": 1,
+        "jobTitle": "Software Developer",
+        "company": "ABC Technologies",
+        "location": "India",
+        "salary": "Rs 7,50,000 - Rs 9,00,000 per year",
+        "jobDescription": "We are seeking a skilled software developer to join our team. The successful candidate will have experience with Java, Python, and SQL, and will be responsible for designing, developing, and maintaining our software products.",
+        "requirements": [
+            "Bachelor's degree in computer science or related field",
+            "3+ years of experience in software development",
+            "Experience with Java, Python, and SQL",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2022-03-01",
+        "validThrough": "2022-06-01"
+    },
+    {
+        "id": 2,
+        "jobTitle": "Web Developer",
+        "company": "XYZ Solutions",
+        "location": "India",
+        "salary": "Rs 5,00,000 - Rs 7,00,000 per year",
+        "jobDescription": "We are seeking a talented web developer to join our team. The successful candidate will have experience with HTML, CSS, JavaScript, and a JavaScript framework such as React or Angular.",
+        "requirements": [
+            "Bachelor's degree in computer science or related field",
+            "2+ years of experience in web development",
+            "Experience with HTML, CSS, JavaScript, and a JavaScript framework",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2022-03-05",
+        "validThrough": "2022-06-05"
+    },
+    {
+        "id": 3,
+        "jobTitle": "Mobile App Developer",
+        "company": "PQR Solutions",
+        "location": "India",
+        "salary": "Rs 6,00,000 - Rs 8,00,000 per year",
+        "jobDescription": "We are seeking a skilled mobile app developer to join our team. The successful candidate will have experience with Android or iOS development, and will be responsible for designing, developing, and maintaining our mobile applications.",
+        "requirements": [
+            "Bachelor's degree in computer science or related field",
+            "2+ years of experience in mobile app development",
+            "Experience with Android or iOS development",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2022-03-08",
+        "validThrough": "2022-06-08"
+    },
+    {
+        "id": 4,
+        "jobTitle": "Data Analyst",
+        "company": "LMN Analytics",
+        "location": "India",
+        "salary": "Rs 4,00,000 - Rs 6,00,000 per year",
+        "jobDescription": "We are seeking a talented data analyst to join our team. The successful candidate will have experience with SQL, Python, and data visualization tools such as Tableau or Power BI.",
+        "requirements": [
+            "Bachelor's degree in mathematics, statistics, computer science, or related field",
+            "2+ years of experience in data analysis",
+            "Experience with SQL, Python, and data visualization tools",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2022-03-12",
+        "validThrough": "2022-05-09"
+    },
+    {
+        "id": 5,
+        "jobTitle": "Data Scientist",
+        "company": "XYZ Analytics",
+        "location": "India",
+        "salary": "Rs 12,00,000 - Rs 16,00,000 per year",
+        "jobDescription": "We are seeking a skilled data scientist to join our team. The successful candidate will have experience in statistical modeling, machine learning, and data analysis, and will be responsible for developing predictive models and conducting data-driven research to solve complex business problems.",
+        "requirements": [
+            "Master's degree in data science, statistics, or a related field",
+            "5+ years of experience in data analysis and statistical modeling",
+            "Proficiency in programming languages such as Python and R",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2022-03-15",
+        "validThrough": "2022-06-15"
+    },
+    {
+        "id": 6,
+        "jobTitle": "Marketing Manager",
+        "company": "XYZ Marketing Solutions",
+        "location": "India",
+        "salary": "Rs 10,00,000 - Rs 12,00,000 per year",
+        "jobDescription": "We are seeking a talented marketing manager to join our team. The successful candidate will have experience in developing and executing marketing strategies to increase brand awareness and drive sales, and will be responsible for overseeing all marketing activities.",
+        "requirements": [
+            "Bachelor's degree in marketing, business administration, or a related field",
+            "5+ years of experience in marketing management",
+            "Strong understanding of digital marketing channels such as social media, email, and SEO",
+            "Excellent communication and leadership skills",
+            "Strong analytical and problem-solving skills"
+        ],
+        "datePosted": "2022-04-01",
+        "validThrough": "2022-07-01"
+    },
+    {
+        "id": 7,
+        "jobTitle": "Digital Marketing Manager",
+        "company": "XYZ Corporation",
+        "location": "India",
+        "salary": "Rs 8,00,000 - Rs 10,00,000 per year",
+        "jobDescription": "We are looking for a talented Digital Marketing Manager to develop and implement effective marketing strategies that will help us achieve our business goals. The successful candidate will be responsible for creating engaging content, managing social media platforms, and analyzing campaign performance.",
+        "requirements": [
+            "Bachelor's degree in marketing or related field",
+            "5+ years of experience in digital marketing",
+            "Experience with SEO, SEM, and social media platforms",
+            "Excellent communication and leadership skills",
+            "Strong analytical and problem-solving abilities"
+        ],
+        "datePosted": "2023-04-20",
+        "validThrough": "2023-07-20"
+    },
+    {
+        "id": 8,
+        "jobTitle": "Graphic Designer",
+        "company": "LMN Design Studio",
+        "location": "India",
+        "salary": "Rs 5,00,000 - Rs 7,00,000 per year",
+        "jobDescription": "We are looking for a creative and talented Graphic Designer to join our team. The successful candidate will be responsible for creating visually appealing designs that will help us effectively communicate with our audience. The ideal candidate will have experience with Adobe Creative Suite, typography, and layout design.",
+        "requirements": [
+            "Bachelor's degree in graphic design or related field",
+            "2+ years of experience in graphic design",
+            "Expertise in Adobe Creative Suite",
+            "Strong understanding of typography and layout design",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2023-04-20",
+        "validThrough": "2023-07-20"
+    },
+    {
+        "id": 9,
+        "jobTitle": "Engineer",
+        "company": "XYZ Technologies",
+        "location": "India",
+        "salary": "Rs 6,00,000 - Rs 8,00,000 per year",
+        "jobDescription": "We are seeking a highly skilled engineer to work with our team of professionals. The successful candidate will have experience in mechanical, civil, or electrical engineering and will be responsible for designing, developing, and testing various systems and products.",
+        "requirements": [
+            "Bachelor's degree in engineering",
+            "3+ years of experience in engineering",
+            "Experience in mechanical, civil, or electrical engineering",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    },
+    {
+        "id": 10,
+        "jobTitle": "Drafter",
+        "company": "ABC Design Co.",
+        "location": "India",
+        "salary": "Rs 4,00,000 - Rs 6,00,000 per year",
+        "jobDescription": "We are seeking a skilled drafter to join our team. The successful candidate will have experience in drafting mechanical, electrical, or civil engineering designs and will be responsible for creating accurate and detailed technical drawings for various projects.",
+        "requirements": [
+            "Bachelor's degree or diploma in drafting or engineering",
+            "2+ years of experience in drafting",
+            "Experience in mechanical, electrical, or civil engineering drafting",
+            "Proficient in AutoCAD or similar software",
+            "Attention to detail and strong organizational skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    },
+    {
+        "id": 11,
+        "jobTitle": "Civil Engineer",
+        "company": "XYZ Construction",
+        "location": "India",
+        "salary": "Rs 6,00,000 - Rs 8,00,000 per year",
+        "jobDescription": "We are seeking a Civil Engineer to design, develop and construct a wide range of projects from conception through to completion.",
+        "requirements": [
+            "Bachelor's degree in Civil Engineering",
+            "3+ years of experience in civil engineering",
+            "Experience in design software like AutoCAD, Revit etc.",
+            "Knowledge of building codes, regulations, and safety standards",
+            "Strong communication, project management, and problem-solving skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    },
+    {
+        "id": 12,
+        "jobTitle": "Electrical Engineer",
+        "company": "ABC Power Systems",
+        "location": "India",
+        "salary": "Rs 7,00,000 - Rs 9,00,000 per year",
+        "jobDescription": "We are seeking an Electrical Engineer to design, develop, and test electrical equipment and systems.",
+        "requirements": [
+            "Bachelor's degree in Electrical Engineering",
+            "3+ years of experience in electrical engineering",
+            "Experience in design software like AutoCAD, MATLAB etc.",
+            "Knowledge of electrical codes, regulations, and safety standards",
+            "Strong communication, project management, and problem-solving skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    },
+    {
+        "id": 13,
+        "jobTitle": "Assistant Engineer",
+        "company": "ABC Engineering Services",
+        "location": "India",
+        "salary": "Rs 4,00,000 - Rs 6,00,000 per year",
+        "jobDescription": "We are seeking an Assistant Engineer to assist in designing, developing, and testing various engineering projects.",
+        "requirements": [
+            "Bachelor's degree in Engineering or related field",
+            "1+ years of experience in engineering",
+            "Familiarity with design software like AutoCAD, SolidWorks etc.",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    },
+    {
+        "id": 14,
+        "jobTitle": "Chemical Engineer",
+        "company": "XYZ Chemicals",
+        "location": "India",
+        "salary": "Rs 8,00,000 - Rs 10,00,000 per year",
+        "jobDescription": "We are seeking a Chemical Engineer to design, develop and test chemical processes, equipment and products.",
+        "requirements": [
+            "Bachelor's degree in Chemical Engineering",
+            "3+ years of experience in chemical engineering",
+            "Experience in process simulation software like Aspen Plus, CHEMCAD etc.",
+            "Knowledge of chemical processes, equipment, and safety standards",
+            "Strong communication, project management, and problem-solving skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    },
+    {
+        "id": 15,
+        "jobTitle": "Chief Engineer",
+        "company": "XYZ Engineering",
+        "location": "India",
+        "salary": "Rs 12,00,000 - Rs 15,00,000 per year",
+        "jobDescription": "We are seeking a highly experienced Chief Engineer to lead our engineering team. The successful candidate will have extensive knowledge and experience in managing large-scale engineering projects and a proven track record of delivering high-quality work within budget and on schedule.",
+        "requirements": [
+            "Bachelor's degree in engineering",
+            "15+ years of experience in engineering",
+            "Proven leadership skills",
+            "Excellent project management skills",
+            "Strong communication and interpersonal skills"
+        ],
+        "datePosted": "2022-04-21",
+        "validThrough": "2022-07-21"
+    },
+    {
+        "id": 16,
+        "jobTitle": "Drafter",
+        "company": "ABC Design",
+        "location": "India",
+        "salary": "Rs 3,00,000 - Rs 5,00,000 per year",
+        "jobDescription": "We are seeking a skilled drafter to create technical drawings and plans for engineering and architectural projects. The successful candidate will work closely with engineers, architects, and project managers to produce accurate and detailed plans and schematics.",
+        "requirements": [
+            "Associate's degree in drafting or related field",
+            "2+ years of experience in drafting",
+            "Proficiency in AutoCAD and other drafting software",
+            "Attention to detail and accuracy",
+            "Ability to work collaboratively in a team environment"
+        ],
+        "datePosted": "2022-04-21",
+        "validThrough": "2022-07-21"
+    },
+    {
+        "id": 17,
+        "jobTitle": "Engineering Technician",
+        "company": "PQR Engineering",
+        "location": "India",
+        "salary": "Rs 5,00,000 - Rs 7,00,000 per year",
+        "jobDescription": "We are seeking an engineering technician to support our engineering team in designing, testing, and analyzing products and systems. The successful candidate will have a strong technical background and be able to work effectively in a fast-paced, team-oriented environment.",
+        "requirements": [
+            "Associate's degree in engineering or related field",
+            "2+ years of experience in engineering",
+            "Experience with CAD and other engineering software",
+            "Excellent analytical and problem-solving skills",
+            "Ability to work collaboratively in a team environment"
+        ],
+        "datePosted": "2022-04-21",
+        "validThrough": "2022-07-21"
+    },
+    {
+        "id": 18,
+        "jobTitle": "Geological Engineer",
+        "company": "GeoTech Industries",
+        "location": "India",
+        "salary": "Rs 10,00,000 - Rs 12,00,000 per year",
+        "jobDescription": "We are seeking a Geological Engineer to join our team. The successful candidate will be responsible for conducting geological surveys, analyzing data, and designing and implementing exploration and production plans.",
+        "requirements": [
+            "Bachelor's degree in geological engineering or related field",
+            "3+ years of experience in geological engineering",
+            "Experience with geological mapping software",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    },
+    {
+        "id": 19,
+        "jobTitle": "Biological Engineer",
+        "company": "BioTech Solutions",
+        "location": "India",
+        "salary": "Rs 9,00,000 - Rs 11,00,000 per year",
+        "jobDescription": "We are seeking a Biological Engineer to join our team. The successful candidate will be responsible for developing and testing biological materials and processes for use in various industries.",
+        "requirements": [
+            "Bachelor's degree in biological engineering or related field",
+            "3+ years of experience in biological engineering",
+            "Experience with biological testing and analysis",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    },
+    {
+        "id": 20,
+        "jobTitle": "Maintenance Engineer",
+        "company": "MegaTech Industries",
+        "location": "India",
+        "salary": "Rs 8,00,000 - Rs 10,00,000 per year",
+        "jobDescription": "We are seeking a Maintenance Engineer to join our team. The successful candidate will be responsible for ensuring that all equipment and facilities are operating efficiently and effectively.",
+        "requirements": [
+            "Bachelor's degree in mechanical engineering or related field",
+            "3+ years of experience in maintenance engineering",
+            "Experience with maintenance scheduling and preventive maintenance",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    },
+    {
+        "id": 21,
+        "jobTitle": "Mining Engineer",
+        "company": "MineralTech Industries",
+        "location": "India",
+        "salary": "Rs 11,00,000 - Rs 13,00,000 per year",
+        "jobDescription": "We are seeking a Mining Engineer to join our team. The successful candidate will be responsible for designing and implementing mining plans, ensuring safety and compliance, and optimizing production.",
+        "requirements": [
+            "Bachelor's degree in mining engineering or related field",
+            "3+ years of experience in mining engineering",
+            "Experience with mine planning and design software",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    },
+    {
+        "id": 22,
+        "jobTitle": "Nuclear Engineer",
+        "company": "Nuclear Power Corp",
+        "location": "India",
+        "salary": "Rs 12,00,000 - Rs 15,00,000 per year",
+        "jobDescription": "We are seeking a highly skilled nuclear engineer to work on the design, development, and maintenance of nuclear power plants. The successful candidate will have expertise in nuclear physics, radiation protection, and nuclear power plant operations.",
+        "requirements": [
+            "Bachelor's degree in nuclear engineering or related field",
+            "5+ years of experience in nuclear power plant operations",
+            "Expertise in nuclear physics, radiation protection, and nuclear power plant operations",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    },
+    {
+        "id": 23,
+        "jobTitle": "Petroleum Engineer",
+        "company": "Reliance Industries Ltd",
+        "location": "India",
+        "salary": "Rs 10,00,000 - Rs 13,00,000 per year",
+        "jobDescription": "We are seeking a skilled petroleum engineer to work on oil and gas exploration, production, and refining. The successful candidate will have experience in reservoir engineering, drilling, and well completion.",
+        "requirements": [
+            "Bachelor's degree in petroleum engineering or related field",
+            "3+ years of experience in oil and gas exploration, production, and refining",
+            "Experience in reservoir engineering, drilling, and well completion",
+            "Strong problem-solving and analytical skills",
+            "Excellent communication and collaboration skills"
+        ],
+        "datePosted": "2023-04-23",
+        "validThrough": "2023-07-23"
+    }
+]

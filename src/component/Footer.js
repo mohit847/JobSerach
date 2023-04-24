@@ -12,12 +12,12 @@ function Footer() {
   return (
     <>
       <div className="flex flex-col bg-slate-800">
-        <div className="flex flex-col md:flex-row md:mx-20 lg:mx-40 p-10 md:p-20 gap-10">
+        <div className="flex flex-col md:flex-row md:mx-20 lg:mx-32 p-10 md:p-20 gap-10">
           <div className="grid col-span-2">
             <h1 className="text-4xl font-bold mb-6 text-white">
               About Jobseek
             </h1>
-            <h2 className="text-lg mb-6 text-slate-400 max-w-2xl">
+            <h2 className="text-sm mb-2 text-slate-400 max-w-xl">
               Jobseek WordPress Theme is a complete solution for recruiting
               agencies and human resources. It’s a perfect website to offer your
               clients career evolving, new projects for freelancers or just
@@ -27,16 +27,18 @@ function Footer() {
               candidates can do the same things with their resumes.
             </h2>
           </div>
-          <div className="flex flex-col">
-            <h6 className="font-bold text-white text-lg mb-4">Candidate Tools</h6>
-            <ul className="mb-16 text-slate-400 text-lg">
+          <div className="flex flex-col ">
+            <h6 className="font-bold text-white text-lg mb-4 w-auto">Candidate Tools</h6>
+            <ul className="text-slate-400 text-sm">
               <li><FaChevronRight className="inline-block mr-2" />candidates Dashboard</li>
               <li><FaChevronRight className="inline-block mr-2" />Past Application</li>
               <li><FaChevronRight className="inline-block mr-2" />Job Alerts</li>
               <li><FaChevronRight className="inline-block mr-2" />Bookmarks</li>
             </ul>
+          </div>
+          <div className="flex flex-col w-auto">
             <h6 className="font-bold text-white text-lg mb-4">Employer Tools</h6>
-            <ul className="mb-16 text-slate-400 text-lg">
+            <ul className="flex flex-col text-slate-400 text-sm">
               <li><FaChevronRight className="inline-block mr-2" />Add a job</li>
               <li><FaChevronRight className="inline-block mr-2" />Companies</li>
               <li><FaChevronRight className="inline-block mr-2" />Companies</li>

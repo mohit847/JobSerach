@@ -1,12 +1,13 @@
-import React from "react";
+import React, { useState } from "react";
 import Button from "./Button";
 import { Link } from "react-router-dom";
 
-
-import { useState } from "react";
-
 export default function Navbar() {
   const [navbar, setNavbar] = useState(false);
+
+  const toggleNavbar = () => {
+    setNavbar(!navbar);
+  };
 
   return (
     <nav className="w-full bg-white shadow">
@@ -19,7 +20,7 @@ export default function Navbar() {
             <div className="md:hidden">
               <button
                 className="p-2 text-gray-700 rounded-md outline-none focus:border-gray-400 focus:border"
-                onClick={() => setNavbar(!navbar)}
+                onClick={toggleNavbar}
               >
                 {navbar ? (
                   <svg
@@ -56,37 +57,57 @@ export default function Navbar() {
         </div>
         <div>
           <div
-            className={`flex-1 justify-self-center pb-3 mt-8 md:block md:pb-0 md:mt-0 ${
-              navbar ? "block" : "hidden"
-            }`}
+            className={`flex-1 justify-self-center pb-3 mt-8 md:block md:pb-0 md:mt-0 ${navbar ? "block" : "hidden"
+              }`}
           >
             <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
               <li className="text-gray-600 hover:text-blue-600">
-            <Link to="/Home"  className="animate-bounce" > <a href="javascript:void(0)">Home</a></Link>
+                <Link to="/Home" className="animate-bounce">
+                  <a href="javascript:void(0)">Home</a>
+                </Link>
               </li>
               <li className="text-gray-600 hover:text-blue-600">
-              <Link to="/Blog" className="animate-bounce"> <a href="javascript:void(0)">Blog</a></Link>
+                <Link to="/Blog" className="animate-bounce">
+                  <a href="javascript:void(0)">Blog</a>
+                </Link>
               </li>
 
-              <li className="text-gray-600 hover:text-blue-600">
-              <Link to="/FindJob" className="animate-bounce">  <a href="javascript:void(0)">Search Job</a></Link>
+              <li className="text-gray-600 md:text-base hover:text-blue-600">
+                <Link to="/Home" className="animate-bounce">
+                  <a href="javascript:void(0)">Home</a>
+                </Link>
+              </li>
+              <li className="text-gray-600 md:text-base hover:text-blue-600">
+                <Link to="/Blog" className="animate-bounce">
+                  <a href="javascript:void(0)">Blog</a>
+                </Link>
               </li>
 
-              <li className="text-gray-600 hover:text-blue-600">
-              <Link to="/AboutUs" >  <a href="javascript:void(0)">About Us</a></Link>
+              <li className="text-gray-600 md:text-base hover:text-blue-600">
+                <Link to="/FindJob" className="animate-bounce">
+                  <a href="javascript:void(0)">Search Job</a>
+                </Link>
               </li>
 
-              
-              <li className="text-gray-600 hover:text-blue-600">
-               <Link to="/Contactus"> <a href="javascript:void(0)">Contact US</a></Link>
+              <li className="text-gray-600 md:text-base hover:text-blue-600">
+                <Link to="/AboutUs" className="animate-bounce">
+                  <a href="javascript:void(0)">About Us</a>
+                </Link>
               </li>
+
+              <li className="text-gray-600 md:text-base hover:text-blue-600">
+                <Link to="/Contactus" className="animate-bounce">
+                  <a href="javascript:void(0)">Contact US</a>
+                </Link>
+              </li>
+
               <Link to="/sign_up">
-                <Button >Login/Sign Up</Button>
+                <Button>Login/Sign Up</Button>
               </Link>
             </ul>
           </div>
         </div>
-      </div>
+        </div>
     </nav>
-  );
+    );
 }
