@@ -16,7 +16,7 @@ export default function Crusule() {
          
           <div>
             <h1 className="text-5xl  uppercase font-bold">
-              Your career start's here!
+              Your career start's here!!
             </h1>
             <p className="text-xl">
               A complete solution for recuting agencies and human resource
